@@ -1,3 +1,6 @@
+# Copied from: [https://basit313.gumroad.com/l/react-quiz-app-template](https://basit313.gumroad.com/l/react-quiz-app-template)
+
+
 ![React Quiz App Template Cover Image](./src/assets/images/ReactJS-Quiz-App-Template.jpg)
 
 # Xeven Quiz - ReactJS Quiz App Template
